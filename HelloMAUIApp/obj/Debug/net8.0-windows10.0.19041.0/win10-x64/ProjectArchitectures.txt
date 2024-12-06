@@ -1,0 +1,1 @@
+D:\MyProjects\dotNET-Example\HelloMAUIApp\HelloMAUIApp.csproj;x64

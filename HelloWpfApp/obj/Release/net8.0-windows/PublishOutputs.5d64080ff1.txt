@@ -1,0 +1,5 @@
+D:\MyProjects\dotNET-Example\HelloWpfApp\publish\HelloWpfApp.exe
+D:\MyProjects\dotNET-Example\HelloWpfApp\publish\HelloWpfApp.dll
+D:\MyProjects\dotNET-Example\HelloWpfApp\publish\HelloWpfApp.deps.json
+D:\MyProjects\dotNET-Example\HelloWpfApp\publish\HelloWpfApp.runtimeconfig.json
+D:\MyProjects\dotNET-Example\HelloWpfApp\publish\HelloWpfApp.pdb
